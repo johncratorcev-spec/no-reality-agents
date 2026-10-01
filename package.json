@@ -1,0 +1,15 @@
+{
+  "name": "no-reality-agent",
+  "version": "1.0.0",
+  "description": "A thin multimodal LLM wrapper that plays REAL or SYNTH against humans on no-reality.fun",
+  "type": "module",
+  "main": "agent.mjs",
+  "scripts": {
+    "start": "node agent.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["ai", "agent", "llm", "multimodal", "game", "prediction"],
+  "license": "MIT"
+}
